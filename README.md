@@ -4,9 +4,8 @@
 
 1. [Prerequisites](#pre)
 1. [Source Control Setup](#download)
-1. [Salesforce Metadata Setup](#sfMetadata)
-1. [Salesforce Manual Setup](#sfManual)
-1. [Xcode Setup](#xcode)
+1. [Challenge Requirements](#requirements)
+1. [Challenge Validation](#validation)
 1. [Additional Resources](#resources)
 
 ## Prerequisites <a name="pre"></a>
@@ -32,7 +31,7 @@ If you've already cloned this repository, please initialize the submodules using
 git submodule update --init --recursive
 ```
 
-## Challenge Requirements
+## Challenge Requirements <a name="requirements"></a>
 
 To complete this challenge, you need to develop an application using Swift 5 and the Salesforce Mobile SDK for iOS. Your application must have the following features:
 
@@ -43,7 +42,7 @@ To complete this challenge, you need to develop an application using Swift 5 and
   - Allows users to select a specific contact and see the contact's name, address, phone number and email address as well as any attached files.
 - Allows the user to take a photograph, and upload it to Salesforce as an attachment related to a specific Contact.
 
-## Challenge Validation
+## Challenge Validation <a name="validation"></a>
 
 You must present your application on either a iPhone or the iOS Simulator to booth officials before the close of TrailheadX'19.
 
