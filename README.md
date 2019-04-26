@@ -13,7 +13,7 @@
 In order to complete this challenge you'll need:
 
 1. A working installation of Git.
-2. A Mac with xCode 10.1 (or higher) installed.
+2. A Mac with Xcode 10.2+ installed.
 3. If you want to install the sample app on a physical iOS device, you'll need an Apple Developer Account.
 4. A Salesforce developer edition org (Signup at [developer.salesforce.com](https://developer.salesforce.com/signup))
 
