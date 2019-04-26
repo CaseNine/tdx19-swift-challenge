@@ -13,7 +13,7 @@
 In order to complete this challenge you'll need:
 
 1. A working installation of Git.
-2. An Apple Computer with xCode 10.1 (or higher) installed.
+2. A Mac with xCode 10.1 (or higher) installed.
 3. If you want to install the sample app on a physical iOS device, you'll need an Apple Developer Account.
 4. A Salesforce developer edition org (Signup at [developer.salesforce.com](https://developer.salesforce.com/signup))
 
@@ -33,18 +33,18 @@ git submodule update --init --recursive
 
 ## Challenge Requirements <a name="requirements"></a>
 
-To complete this challenge, you need to develop an application using Swift 5 and the Salesforce Mobile SDK for iOS. Your application must have the following features:
+To complete this challenge, you need to develop an app using Swift 5 and the Salesforce Mobile SDK for iOS. Your application must have the following features:
 
-- Utilize Biometric authentication via the Salesforce Mobile SDK for iOS
-- Has a tab based navigation user interface that can display
-  - Accounts by name retrieved from Salesforce
+- Utilize biometric authentication via the Salesforce Mobile SDK for iOS
+- Has a list based navigation user interface that
+  - Displays accounts by name retrieved from Salesforce
   - Allows users to select a specific account and see a list of all contacts related to that account.
   - Allows users to select a specific contact and see the contact's name, address, phone number and email address as well as any attached files.
 - Allows the user to take a photograph, and upload it to Salesforce as an attachment related to a specific Contact.
 
 ## Challenge Validation <a name="validation"></a>
 
-You must present your application on either a iPhone or the iOS Simulator to booth officials before the close of TrailheadX'19.
+You must present your app on either a iPhone or the iOS Simulator to booth officials before the close of TrailheadX'19.
 
 ## Additional Resources <a name="resources"></a>
 
