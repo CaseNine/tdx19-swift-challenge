@@ -22,7 +22,7 @@ In order to complete this challenge you'll need:
 This project makes use of [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules), in addition to Xcode build dependencies to incorporate the SDK. This means you must not only clone _this_ repository, but the submodule repositories as well. If you have not yet cloned this repository, this clone command will clone not only this repo, but the submodules as well.
 
 ```console
-git clone --recurse-submodules https://github.com/trailheadapps/MobileSDK-Starter.git
+git clone --recurse-submodules https://github.com/trailheadapps/tdx19-swift-challenge.git
 ```
 
 If you've already cloned this repository, please initialize the submodules using this command
